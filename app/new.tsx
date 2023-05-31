@@ -17,7 +17,7 @@ import NLWLogo from '../src/assets/nlw-spacetime-logo.svg'
 import Icon from '@expo/vector-icons/Feather'
 import { api } from '../src/lib/api'
 
-export default function NewMemory() {
+export default function Memories() {
   const router = useRouter()
   const { bottom, top } = useSafeAreaInsets()
   const [isPublic, setIsPublic] = useState(false)
