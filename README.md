@@ -8,7 +8,7 @@
 <p>Projeto feito em nextjs 13 e tailwind, sobre uma timeline onde é possivel o usuario logar com sua conta do github e então criar lembranças adicionando imagem e texto, o usuário  e lembrança são salvos no banco de dados prisma
 </p>
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52941875818/in/dateposted-public/" title="nlwweb"><img src="https://live.staticflickr.com/65535/52941875818_f7afb05114_o.jpg" width="1600" height="900" alt="nlwweb"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/196553482@N03/52940814442/in/dateposted-public/" title="nlwmobile"><img src="https://live.staticflickr.com/65535/52940814442_57cb06c660_o.jpg" width="395" height="721" alt="nlwmobile"/></a>
 
 
 ## Criador do Projeto
